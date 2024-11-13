@@ -1,14 +1,16 @@
 ## _Hello! I am `Ananthu Krishnan`👋._
 
+### **About Me**
+
 I am a self-taught Frontend developer from Kerala, India.
 
 - 🌱 I’m currently learning more...
 
-### **About Me**
+
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhukrish&&show_icons=true&theme=graywhite )
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anandhukrish)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **anandhukrish/anandhukrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
